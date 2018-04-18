@@ -3,5 +3,5 @@ def square_array(array)
   array.each do |numbers|
     new_array.push Math.sqrt(numbers)
   end
-  new_array 
+  new_array
 end
